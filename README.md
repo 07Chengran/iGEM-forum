@@ -6,6 +6,8 @@ Welcome to the iGEM Community Forum, a dedicated space for the iGEM community to
 
 The iGEM Community Forum is designed to serve as a central hub for iGEM teams to discuss various topics related to synthetic biology, including but not limited to project development, parts design, bioethics, and team management.
 
+Based on SpringBoot+Vue framework, the front end and back end are separated
+
 ## Features
 
 - **Discussion Boards:** Structured spaces for specific topics like project development, troubleshooting, and event announcements.
@@ -20,3 +22,8 @@ The iGEM Community Forum is designed to serve as a central hub for iGEM teams to
 1. Clone the repository:
    ```bash
    git clone https://github.com/xjtlu-china/igem-forum.git
+
+   
+## Credits and Acknowledgments
+
+This forum is based on the [Nanshengbbs](https://github.com/maliangnansheng/bbs-springboot), which was originally developed by [maliangnansheng](https://github.com/maliangnansheng/maliangnansheng). We have adapted and expanded upon the original project to serve
