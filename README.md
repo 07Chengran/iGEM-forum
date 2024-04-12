@@ -15,13 +15,6 @@ The iGEM Community Forum is designed to serve as a central hub for iGEM teams to
 
 ## Getting Started
 
-### Prerequisites
-
-Before you can run the forum locally, you will need to have the following installed:
-- Python 3.8 or above
-- Django 3.2 or above
-- Other dependencies listed in `requirements.txt`
-
 ### Installation
 
 1. Clone the repository:
